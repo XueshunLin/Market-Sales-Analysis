@@ -19,4 +19,9 @@ To install Python dependencies, run:
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+For the best experience and to ensure the Jupyter notebooks run correctly, it is highly recommended to place the dataset in the same folder as the `Part2&Part3.ipynb` notebook. This ensures that all data paths referenced within the notebook are valid and the code can access the dataset without any additional configuration.
+
+
 ## Thank you so much for taking the time reviewing my work! Please do not hesitate to contact with me if you require any additional information or face any problems.
