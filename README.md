@@ -19,4 +19,4 @@ To install Python dependencies, run:
 pip install -r requirements.txt
 ```
 
-## Thank you so much for taking the time reviewing my work! Please do not hesitate to contact me if you require any additional information and face and problems.
+## Thank you so much for taking the time reviewing my work! Please do not hesitate to contact with me if you require any additional information or face any problems.
