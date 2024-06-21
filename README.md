@@ -28,5 +28,3 @@ To install Python dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-git clone https://github.com/Yagami11111/Market-Sales-Analysis/tree/main
-cd market-sales-data-analysis
