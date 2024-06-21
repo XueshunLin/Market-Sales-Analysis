@@ -1,27 +1,32 @@
-# Decathlon Technical Test
+# Market Sales Data Analysis
 
 ## Overview
 
-This repository is for the technical assessment of the Decathlon data analyst position. It contains SQL queries and Jupyter notebooks for data analysis and data science tasks.
+This repository is an in-depth exploration of a public market sales data. The `main.ipynb` is a Jupyter notebook used for various data analysis and data science tasks.
 
 ## Contents
 
-- `Part1.sql` - Contains the SQL queries for the initial data analysis part of the test.
-- `Part2&Part3.ipynb` - Jupyter notebook that includes the work for parts 2 and 3 of the test, involving further data analysis and model development.
+- `Dataset.zip/` - Contains the datasets used in this project.
+  - `grouped_data.csv` - Contains grouped data according to the store type
+  - `offline_data.csv` - Offline sales data.
+  - `original_transaction_data.csv` - The raw transaction data.
+- `main.ipynb` - Jupyter notebook for data analysis.
+- `README.md` - This file.
+- `requirements.txt` - List of dependencies required for this project.
+- `trained_model/` - Directory containing the trained model and its assets.
+  - `assets/` - Assets related to the trained model.
+    - `fingerprint.pb` - Fingerprint data for the model.
+    - `keras_metadata.pb` - Metadata for the Keras model.
+    - `saved_model.pb` - The saved model file.
+  - `variables/` - Directory containing model variables.
 
 ## Installation
 
-To get started with this project, you'll need to have Python installed on your system. Additionally, you should have access to a SQL server where you can run the provided SQL script.
+To get started with this project, you'll need to have Python installed on your system.
 
 To install Python dependencies, run:
 
-```
+```bash
 pip install -r requirements.txt
-```
-
-## Dataset
-
-For the best experience and to ensure the Jupyter notebooks run correctly, it is highly recommended to place the dataset in the same folder as the `Part2&Part3.ipynb` notebook. This ensures that all data paths referenced within the notebook are valid and the code can access the dataset without any additional configuration.
-
-
-## Thank you so much for taking the time reviewing my work! Please do not hesitate to contact with me if you require any additional information or face any problems.
+git clone https://github.com/Yagami1111/market-sales-data-analysis.git
+cd market-sales-data-analysis
