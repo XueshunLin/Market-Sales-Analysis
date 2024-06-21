@@ -10,7 +10,7 @@ This repository is an in-depth exploration of a public market sales data. The `m
   - `grouped_data.csv` - Contains grouped data according to the store type
   - `offline_data.csv` - Offline sales data.
   - `original_transaction_data.csv` - The raw transaction data.
-- `main.ipynb` - Jupyter notebook for data analysis.
+- `main.ipynb` - Main Jupyter Notebook
 - `README.md` - This file.
 - `requirements.txt` - List of dependencies required for this project.
 - `trained_model/` - Directory containing the trained model and its assets.
@@ -28,5 +28,5 @@ To install Python dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-git clone https://github.com/Yagami1111/market-sales-data-analysis.git
+git clone https://github.com/Yagami11111/Market-Sales-Analysis/tree/main
 cd market-sales-data-analysis
