@@ -1,5 +1,9 @@
 # Market Sales Data Analysis
 
+<a target="_blank" href="https://colab.research.google.com/github/Yagami11111/Market-Sales-Analysis/blob/main/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Overview
 
 This repository is an in-depth exploration of a public market sales data. The `main.ipynb` is a Jupyter notebook used for various data analysis and data science tasks.
