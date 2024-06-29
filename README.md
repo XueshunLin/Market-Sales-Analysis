@@ -1,6 +1,6 @@
 # Market Sales Data Analysis
 
-<a target="_blank" href="https://colab.research.google.com/github/XueshunLin/Market-Sales-Analysis/blob/main/main.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/xueshunlin/Market-Sales-Analysis/blob/main/main.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
